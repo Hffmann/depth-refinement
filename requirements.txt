@@ -1,0 +1,8 @@
+torch>=1.10
+tianshou==0.4.11
+gym==0.26.2
+numpy
+opencv-python
+camviz
+open3d
+vidar @ git+https://github.com/TRI-ML/vidar.git
